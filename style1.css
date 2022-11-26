@@ -81,12 +81,14 @@ nav:hover{
      align-items: stretch;
      align-content: space-around;
      text-align: center;
-     height: 600px;
+     height: fit-content;
      width: 500px;
      border: 2px solid rgb(63, 176, 241);
      border-radius: 50px;
      opacity: 0.8;
      z-index: 1;
+     padding-bottom: 30px;
+     margin-bottom: 30px;
 
 }
 label{
