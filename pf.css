@@ -1,0 +1,18 @@
+*{
+    
+}
+
+#form1{
+    width: fit-content;
+}
+.foot{
+    height: fit-content;
+    
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+.medi{
+    height: 50px;
+    width: 180px;
+    margin-bottom: 10px;
+}
